@@ -1,4 +1,5 @@
 # vue3-big-event
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -33,3 +34,6 @@ pnpm build
 ```sh
 pnpm lint
 ```
+=======
+文章管理系统 ，可以进行分类，和增删改查
+>>>>>>> 8f396b8d1264a81bb4df547c4abfff6551ab5e9e
